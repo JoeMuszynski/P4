@@ -1,0 +1,25 @@
+/* Developer: Joseph Muszynski - IS 117 - Spring 2024 */
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+h4 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    padding-right: 40%;
+}
+
+body {
+    background-color: rgba(0, 255, 0, 0.3);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*
+align h1 and h4 to the center of the page
+float about-us buttons contacts ticket products-list buying-list receipt ~10% to right
+p color dark blue + solid border
+*/
