@@ -1,7 +1,7 @@
 <!--Order confirmation / shipping-->
 <?php include ("jfs-header.php")?>
-<!-- for all selected products greater than 0 oz / units, add them to a receipt list thing
-then gather the user's address/location info, payment, etc
+<!-- Calculate the total of all products + tax
+gather the user's address/location info, payment, etc
 First/last name | shipping address | ZIP code | city | state
 -->
 <?php
